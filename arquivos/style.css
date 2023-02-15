@@ -39,3 +39,12 @@ text-decoration: underline;
      h3 {
         text-decoration:underline rgb(131, 109, 109)
          }
+         .destaque:hover{
+          color: #8065fa;
+          text-decoration: underline
+        
+         }
+        
+        
+
+         
